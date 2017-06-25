@@ -1,0 +1,20 @@
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\emirm\Desktop\C#\Learn C# In One Day\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\emirm\Desktop\C#\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
